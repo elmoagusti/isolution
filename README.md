@@ -1,6 +1,7 @@
 # isolution
 
-Ini adalah aplikasi untuk Technical Test PT. Infra Solusi Indonesia
+Ini adalah aplikasi untuk Technical Test PT. Infra Solusi Indonesia.
+Aplikasi ini hanya sebatas demo dan hanya memakai data dummy dan menjalankan fungsi-fungsi sederhana.
 
 ## Library
 
@@ -8,7 +9,7 @@ menggunakan library getx state management, qr_flutter, dan intl untuk membuat ap
 
 ## file dokumentasi
 terdiri dari video, code yang sudah dikompres dan beberapa screenshoot.
-[Link Video](https://drive.google.com/drive/folders/1Eejk1KWK_HAh6DxQSV8Ii8_XCkM_0kod?usp=sharing)
+[Link Apk dan video](https://drive.google.com/drive/folders/1Eejk1KWK_HAh6DxQSV8Ii8_XCkM_0kod?usp=sharing)
 
 # Tampilan
 
