@@ -1,6 +1,6 @@
 # isolution
 
-A new Flutter project.
+Ini adalah aplikasi untuk Technical Test PT. Infra Solusi Indonesia
 
 ## Getting Started
 
