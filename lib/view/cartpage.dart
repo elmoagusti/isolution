@@ -128,7 +128,7 @@ class CartPage extends StatelessWidget {
                           ),
                         ),
                         onPressed: () {
-                          message(context, "Please Input Money", false);
+                          message(context, "Please Input ", false);
 
                           //fake process data to APi
                           Timer(const Duration(seconds: 10), () {
