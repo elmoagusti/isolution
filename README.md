@@ -6,9 +6,9 @@ Ini adalah aplikasi untuk Technical Test PT. Infra Solusi Indonesia
 
 menggunakan library getx state management, qr_flutter, dan intl untuk membuat aplikasi tersebut.
 
-##file dokumentasi
+## file dokumentasi
 terdiri dari video, code yang sudah dikompres dan beberapa screenshoot.
-[a link](https://drive.google.com/drive/folders/1Eejk1KWK_HAh6DxQSV8Ii8_XCkM_0kod?usp=sharing)
+[Link Video](https://drive.google.com/drive/folders/1Eejk1KWK_HAh6DxQSV8Ii8_XCkM_0kod?usp=sharing)
 
 # Tampilan
 
